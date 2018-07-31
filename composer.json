@@ -1,5 +1,6 @@
 {
   "name": "muzammilversiani/mailtrill-php-sdk",
+  "version": "1.0.0",
   "type": "library",
   "description": "MailTrill PHP-SDK",
   "keywords": ["mailtrill"],
