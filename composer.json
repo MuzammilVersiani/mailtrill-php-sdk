@@ -1,0 +1,20 @@
+{
+  "name": "muzammilversiani/mailtrill-php-sdk",
+  "type": "library",
+  "description": "MailTrill PHP-SDK",
+  "keywords": ["mailtrill"],
+  "homepage": "https://www.mailtrill.com",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Muzammil Versiani",
+      "email": "support@mailtrill.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.2"
+  },
+  "autoload": {
+    "files": ["MailTrillApi/autoload.php"]
+  }
+}
